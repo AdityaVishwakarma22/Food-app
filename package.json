@@ -2,6 +2,7 @@
   "name": "food",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AdityaVishwakarma22.github.io/Food-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
